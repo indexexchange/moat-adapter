@@ -416,7 +416,7 @@ function MoatNob(configs) {
             version: '2.0.0',
             targetingType: 'slot',
             enabledAnalytics: {
-                requestTime: true
+                requestTime: false
             },
             features: {
                 demandExpiry: {

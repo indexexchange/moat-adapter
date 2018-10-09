@@ -3,9 +3,6 @@
 |Feature|  |
 |---|---|
 | Consent |  |
-| Native Ad Support |  |
-| SafeFrame Support |  |
-| PMP Support | |
  
 ## Browser Compatibility
 | Browser |  |
@@ -27,15 +24,10 @@
 | Info | |
 |---|---|
 | Partner Id | MoatNob |
-| Ad Server Responds in (Cents, Dollars, etc) | |
-| Bid Type (Gross / Net) | |
-| GAM Key (Open Market) | |
-| GAM Key (Private Market) | |
+| GAM Keys | |
 | Ad Server URLs | |
 | Slot Mapping Sytle (Size / Multiple Sizes / Slot) | |
 | Request Architecture (MRA / SRA) | |
- 
-## Currencies Supported
  
 ## Bid Request Information
 ### Parameters
